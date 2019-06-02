@@ -1,2 +1,2 @@
 # moneyballfe
-Frontend Repo for Money Ball Application
+Backend Repo for Money Ball Application
