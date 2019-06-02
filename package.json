@@ -1,0 +1,29 @@
+{
+  "name": "moneyballbe",
+  "version": "1.0.0",
+  "description": "Backend for Money Ball Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cpease2010/moneyballbe.git"
+  },
+  "keywords": [
+    "finance",
+    "express",
+    "mongodb",
+    "node",
+    "mlab",
+    "mongoose",
+    "dotenv",
+    "CRUD"
+  ],
+  "author": "Cory Pease",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cpease2010/moneyballbe/issues"
+  },
+  "homepage": "https://github.com/Cpease2010/moneyballbe#readme"
+}
