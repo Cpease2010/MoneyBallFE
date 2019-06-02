@@ -1,7 +1,7 @@
 {
   "name": "moneyballbe",
   "version": "1.0.0",
-  "description": "Backend for Money Ball Application",
+  "description": "Backend API for Money Ball Application",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/Cpease2010/moneyballbe#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "mongoose": "^5.5.12"
